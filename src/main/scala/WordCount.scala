@@ -5,7 +5,7 @@ object WordCount {
   def main(args: Array[String]): Unit = {
     println("Word Count using flatMap")
 
-    Logger.getLogger("org").setLevel(Level.ERROR)
+//    Logger.getLogger("org").setLevel(Level.ERROR)
 
     //Create Spark Context
     val sc = new SparkContext("local[*]","MinTemperatures")
