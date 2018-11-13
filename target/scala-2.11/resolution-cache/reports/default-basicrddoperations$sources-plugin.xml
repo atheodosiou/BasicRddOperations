@@ -7,7 +7,11 @@
 		revision="0.1"
 		conf="plugin"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, pom, scala-tool"
+<<<<<<< Updated upstream
 		date="20181107004655"/>
+=======
+		date="20181113211948"/>
+>>>>>>> Stashed changes
 	<dependencies>
 	</dependencies>
 </ivy-report>

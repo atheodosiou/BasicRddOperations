@@ -4,7 +4,11 @@
 		module="basicrddoperations-build"
 		revision="0.1.0-SNAPSHOT"
 		status="integration"
+<<<<<<< Updated upstream
 		publication="20181107004610"
+=======
+		publication="20181113211944"
+>>>>>>> Stashed changes
 		e:sbtVersion="1.0" e:scalaVersion="2.12"
 	>
 		<description>
